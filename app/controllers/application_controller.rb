@@ -9,11 +9,3 @@ class ApplicationController < Sinatra::Base
 end
 
 run ApplicationController
-
-require_relative "./config/environment"
-
-run ApplicationController
-
-require_relative "./config/environment"
-
-run ApplicationController
